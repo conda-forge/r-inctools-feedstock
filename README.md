@@ -1,11 +1,11 @@
-About r-inctools
-================
+About r-inctools-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-inctools-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.incidence-estimation.org/page/inctools
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-inctools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for estimating incidence from biomarker data in cross- sectional surveys, and for calibrating tests for recent infection. Implements and extends the method of Kassanjee et al. (2012) <doi:10.1097/EDE.0b013e3182576c07>.
 
